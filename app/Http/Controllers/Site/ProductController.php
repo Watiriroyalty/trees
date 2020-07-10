@@ -7,6 +7,8 @@ use Illuminate\Http\Request;
 use App\Contracts\ProductContract;
 use App\Http\Controllers\Controller;
 use App\Contracts\AttributeContract;
+use App\Contracts\CategoryContract;
+use App\models\Product;
 
 class ProductController extends Controller
 {

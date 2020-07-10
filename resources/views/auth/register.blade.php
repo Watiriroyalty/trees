@@ -76,9 +76,9 @@
                                     <label for="country">Country</label>
                                     <select id="country" class="form-control" name="country">
                                         <option> Choose...</option>
-                                        <option value="United Kingdom">United Kingdom</option>
-                                        <option value="France">France</option>
-                                        <option value="United States" selected="">United States</option>
+                                        <option value="United Kingdom">Kenya </option>
+                                        <option value="France">Uganda</option>
+                                        <option value="United States" selected="">Ethiopia</option>
                                     </select>
                                 </div>
                             </div>
